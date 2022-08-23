@@ -1,4 +1,4 @@
-# Asus TUF Gaming FX505GE Hackintosh - OpenCore (10.15.7)
+# Asus TUF Gaming FX505GD Hackintosh - OpenCore (11.6.8)
 **Note: I WILL NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
 Intro
@@ -11,7 +11,7 @@ This BIOS is actual only for Asus TUF Gaming FX505GE
 | | Version |
 | ---: | :--- |
 | ``OpenCore`` | 0.6.3 (RELEASE) |
-| ``Catalina`` | 10.15.7 (19H2) |
+| ``Big Sur`` | 11.6.8 (19H2) |
 
 ## Disclaimer
 This repository has no other purpose but sharing.
