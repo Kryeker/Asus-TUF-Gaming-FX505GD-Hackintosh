@@ -1,4 +1,4 @@
-# Asus TUF Gaming FX505GE Hackintosh - OpenCore (10.15.7)
+# Asus TUF Gaming FX505GD Hackintosh - OpenCore (11.6.8)
 **Note: I WILL NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
 Intro
