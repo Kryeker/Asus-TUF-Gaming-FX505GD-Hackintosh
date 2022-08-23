@@ -44,7 +44,7 @@ Hardware
 | ``Storage`` | SK Hynix 128GB NVMe M.2 + 1TB HDD | No issues  |
 | ``Screen`` | 15.6" Full HD 60Hz, 1920 x 1080 IPS |  No issues |
 | ``Webcam`` | Built-in IR HD webcam (1MP / 720P) |  No issues |
-| ``WiFi`` | Intel Wireless-AC 9560NGW | Drivers absent for macOS. Should replaced |
+| ``WiFi`` | Intel Wireless-AC 9462 | No issues |
 | ``Input & Output`` | USB 3.1 Gen 1 (USB-A) x3 | No issues |
 | | HDMI 2.0B | HDMI connected directly to Nvidia GPU and will not work in macOS |
 | ``Soundboard`` | Realtek ALC235 | No issues. ACPI patch should be added to solve sleep issue |
