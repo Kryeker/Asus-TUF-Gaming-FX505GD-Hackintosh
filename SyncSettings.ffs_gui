@@ -6,7 +6,7 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>Mirror</Variant>
+        <Variant>Update</Variant>
         <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
