@@ -582,8 +582,8 @@
 				<string>IntelBluetoothInjector.kext</string>
 				<key>Comment</key>
 				<string>IntelBluetoothInjector</string>
-				<key>Disabled</key>
-				<true/>
+				<key>Enabled</key>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
