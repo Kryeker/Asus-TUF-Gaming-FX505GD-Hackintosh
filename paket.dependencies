@@ -1,4 +1,4 @@
 source https://api.nuget.org/v3/index.json
 
-storage: none
+storage: packages
 github acidanthera/OcBinaryData

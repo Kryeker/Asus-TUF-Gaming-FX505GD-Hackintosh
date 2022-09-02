@@ -1,4 +1,4 @@
-STORAGE: NONE
+STORAGE: PACKAGES
 GITHUB
   remote: acidanthera/OcBinaryData
     FULLPROJECT (4d362e85befcd4493ae8d32c65c728f96eb13eeb)
