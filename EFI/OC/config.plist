@@ -837,7 +837,7 @@
 				<key>Comment</key>
 				<string>USBMap</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
