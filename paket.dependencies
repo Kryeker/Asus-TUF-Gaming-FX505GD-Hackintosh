@@ -2,3 +2,4 @@ source https://api.nuget.org/v3/index.json
 
 storage: packages
 github acidanthera/OcBinaryData
+github RehabMan/OS-X-USB-Inject-All
