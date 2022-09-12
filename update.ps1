@@ -1,4 +1,5 @@
 #Set-PSDebug -Trace 1
+& dotnet tool update paket --prerelease
 & dotnet tool restore
 & dotnet paket update
 
