@@ -4,14 +4,14 @@
 Intro
 ---
 
-![About this Mac](https://github.com/Kryeker/Asus-TUF-Gaming-FX505GD-Hackintosh/blob/main/IMG/About_Mac_Monterey.png)
+![About this Mac](https://github.com/Kryeker/Asus-TUF-Gaming-FX505GD-Hackintosh/blob/main/IMG/About_Mac_Ventoy.png)
 
 This BIOS is actual only for Asus TUF Gaming FX505GD
 
 | | Version |
 | ---: | :--- |
-| ``OpenCore`` | 0.8.4 (RELEASE) |
-| ``Monterey`` | 12.5.1 (21G83) |
+| ``OpenCore`` | 0.9.1 (RELEASE) |
+| ``Monterey`` | 13.2.1 (22D68) |
 
 ## Disclaimer
 This repository has no other purpose but sharing.
