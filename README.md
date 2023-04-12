@@ -11,7 +11,7 @@ This BIOS is actual only for Asus TUF Gaming FX505GD
 | | Version |
 | ---: | :--- |
 | ``OpenCore`` | 0.9.1 (RELEASE) |
-| ``Monterey`` | 13.2.1 (22D68) |
+| ``Ventoy`` | 13.2.1 (22D68) |
 
 ## Disclaimer
 This repository has no other purpose but sharing.
