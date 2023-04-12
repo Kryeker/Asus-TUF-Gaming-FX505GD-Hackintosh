@@ -6,7 +6,7 @@ Intro
 
 ![About this Mac](https://github.com/Kryeker/Asus-TUF-Gaming-FX505GD-Hackintosh/blob/main/IMG/About_Mac_Monterey.png)
 
-This BIOS is actual only for Asus TUF Gaming FX505GE
+This BIOS is actual only for Asus TUF Gaming FX505GD
 
 | | Version |
 | ---: | :--- |
